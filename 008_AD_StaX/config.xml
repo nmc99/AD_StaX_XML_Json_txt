@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<config>
+	<item date="January 2009">
+		<nombre>Luis</nombre>
+		<ciudad>Madrid</ciudad>
+		<salario>1200</salario>
+	</item>
+	<item date="January 2009">
+		<nombre>Juan</nombre>
+		<ciudad>Segovia</ciudad>
+		<salario>500</salario>
+	</item>
+	<item date="January 2009">
+		<nombre>Maria</nombre>
+		<ciudad>Sevilla</ciudad>
+		<salario>8000</salario>
+	</item>
+	<item date="January 2009">
+		<nombre>Guillermo</nombre>
+		<ciudad>Madrid</ciudad>
+		<salario>100</salario>
+	</item>
+</config>
+
